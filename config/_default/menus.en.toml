@@ -73,24 +73,24 @@
   pre = "linkedin"
   name = "Linked In"
   url = "https://www.linkedin.com/in/grantdavisnz"
-  weight = 40
+  weight = 2
 
 [[footer]]
   pre = "github"
   name = "GitHub"
   url = "https://github.com/gdavisnz"
-  weight = 40
+  weight = 1
 
 
 [[footer]]
    name = "All Tags"
    pageRef = "tags"
-   weight = 10
+   weight = 3
 
 [[footer]]
   name = "#hard"
   pageRef = "tags/hard"
-  weight = 10
+  weight = 4
 
 # [[footer]]
 #   name = "Categories"
