@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "gsphere.dev"
+title = "/gsphere.dev/"
 logo = "img/logo.png"
 #description = "gsphere.dev?"
 #Copyright = "Copy, _right?_ :thinking_face:"
@@ -14,9 +14,9 @@ dateFormat = "2 January 2006"
 
 [author]
    name = "Grant Davis"
-  #image = "img/logo.png"
+  image = "img/profile.png"
  #headline = "I'm only human"
-  # bio = "A little bit about you"
+  #bio = "A little bit about you"
    #links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
