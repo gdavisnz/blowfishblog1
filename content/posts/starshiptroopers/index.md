@@ -11,12 +11,14 @@ showReadingTime : true
 showTableOfContents : true
 showTaxonomies : true 
 showWordCount : true
-#showSummary : true
+showSummary : true
 sharingLinks : false
 Tags: ["die", "hard"]
 ---
+Starship Troopers is a 1997 American science fiction action film directed by Paul Verhoeven.
+
 ## Summary
-Starship Troopers is a 1997 American science fiction action film directed by Paul Verhoeven. The film is based on the 1959 novel of the same name by Robert A. Heinlein and was written by Ed Neumeier. Set in the 23rd century, the film follows the story of teenager Johnny Rico and his friends as they serve in the military under the Earth world government, known as the United Citizen Federation. As humanity explores and colonizes outer space, they come into conflict with an alien species known as the Arachnids, leading to an interstellar war. The film stars Casper Van Dien, Dina Meyer, Denise Richards, Jake Busey, Neil Patrick Harris, Patrick Muldoon, and Michael Ironside.
+ The film is based on the 1959 novel of the same name by Robert A. Heinlein and was written by Ed Neumeier. Set in the 23rd century, the film follows the story of teenager Johnny Rico and his friends as they serve in the military under the Earth world government, known as the United Citizen Federation. As humanity explores and colonizes outer space, they come into conflict with an alien species known as the Arachnids, leading to an interstellar war. The film stars Casper Van Dien, Dina Meyer, Denise Richards, Jake Busey, Neil Patrick Harris, Patrick Muldoon, and Michael Ironside.
 
 Development of Starship Troopers began in 1991 as a separate project called Bug Hunt at Outpost 7, written by Neumeier. Producer Jon Davison noticed many similarities between Neumeier's work and Heinlein's book and asked him to re-work the script to more closely follow the novel and gain more interest from studio executives. Even so, development was slow, with studios remaining non-committal on funding the expensive project up to the filming date. Filming began in April 1996 on a $100–110 million budget, nearly half of which was committed to the extensive computer-generated (CGI) and practical effects required to vivify the Arachnid creatures, before concluding that October.
 

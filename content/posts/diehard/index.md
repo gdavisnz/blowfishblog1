@@ -1,6 +1,6 @@
 ---
 title: "Die Hard"
-date: 2023-03-12
+date: 2023-03-13
 draft: false
 description: "Learn how to group articles under a series."
 showDate : true
@@ -11,19 +11,19 @@ showReadingTime : true
 showTableOfContents : true
 showTaxonomies : true 
 showWordCount : true
-#showSummary : true
+showSummary : true
 sharingLinks : false
 Tags: ["die", "hard"]
 
 ---
 
-
+Die Hard is a 1988 American action film directed by John McTiernan and written by Jeb Stuart and Steven E. de Souza
 
 ## Plot
 
 
 
-Die Hard is a 1988 American action film directed by John McTiernan and written by Jeb Stuart and Steven E. de Souza, based on the 1979 novel Nothing Lasts Forever by Roderick Thorp. It stars Bruce Willis, Alan Rickman, Alexander Godunov, and Bonnie Bedelia, with Reginald VelJohnson, William Atherton, Paul Gleason, and Hart Bochner in supporting roles. Die Hard follows New York City police detective John McClane (Willis) who is caught up in a terrorist takeover of a Los Angeles skyscraper while visiting his estranged wife.
+Based on the 1979 novel Nothing Lasts Forever by Roderick Thorp. It stars Bruce Willis, Alan Rickman, Alexander Godunov, and Bonnie Bedelia, with Reginald VelJohnson, William Atherton, Paul Gleason, and Hart Bochner in supporting roles. Die Hard follows New York City police detective John McClane (Willis) who is caught up in a terrorist takeover of a Los Angeles skyscraper while visiting his estranged wife.
 
 Stuart was hired by 20th Century Fox to adapt Thorp's novel in 1987. His draft was greenlit immediately by Fox, which was eager for a summer blockbuster the following year. The role of McClane was turned down by a host of the decade's most popular actors, including Arnold Schwarzenegger and Sylvester Stallone. Known mainly for work on television, Willis was paid $5 million for his involvement, placing him among Hollywood's highest-paid actors. The deal was seen as a poor investment by industry professionals and attracted significant controversy prior to its release. Filming took place between November 1987 and March 1988, on a $25 million–$35 million budget and almost entirely on location in and around Fox Plaza in Los Angeles.
 
