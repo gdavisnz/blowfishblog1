@@ -33,7 +33,7 @@
 
 [[subnavigation]]
   name = "#die"
-  pageRef = "tags/die"
+  pageRef = "/tags/die/"
   weight = 10
 
 [[subnavigation]]
