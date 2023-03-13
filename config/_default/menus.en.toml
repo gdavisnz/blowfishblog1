@@ -38,13 +38,13 @@
 #  weight = 20
 
 [[subnavigation]]
-  name = "#die"
-  pageRef = "tags/die/"
+  name = "#aws"
+  pageRef = "tags/aws/"
   weight = 10
 
 [[subnavigation]]
-  name = "#hard"
-  pageRef = "tags/hard"
+  name = "#eks-anywhere"
+  pageRef = "tags/hardeksanywhere"
   weight = 10
 
 #[[subnavigation]]
@@ -88,8 +88,13 @@
    weight = 3
 
 [[footer]]
-  name = "#hard"
-  pageRef = "tags/hard"
+  name = "#aws"
+  pageRef = "tags/aws/"
+  weight = 4
+
+  [[footer]]
+ name = "#eks-anywhere"
+  pageRef = "tags/hardeksanywhere"
   weight = 4
 
 # [[footer]]
