@@ -44,7 +44,7 @@
 
 [[subnavigation]]
   name = "#eks-anywhere"
-  pageRef = "tags/hardeksanywhere"
+  pageRef = "tags/eks-anywhere"
   weight = 10
 
 #[[subnavigation]]
@@ -94,7 +94,7 @@
 
   [[footer]]
  name = "#eks-anywhere"
-  pageRef = "tags/hardeksanywhere"
+  pageRef = "tags/eks-anywhere"
   weight = 4
 
 # [[footer]]
